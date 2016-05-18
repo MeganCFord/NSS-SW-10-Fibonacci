@@ -28,7 +28,7 @@ cd 21-challenge-5
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SW-10-Fibonacci)
 
 
 ![screenshot](fibonacci-screenshot.jpg)
